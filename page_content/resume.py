@@ -17,7 +17,7 @@ def resume_page():
     else:
         st.warning("Resume PDF file not found")
 
-    st.title("Jane Doe")
+    st.title("CHEN Siting")
 
     st.header("Contact Information")
     st.markdown("""
@@ -27,8 +27,8 @@ def resume_page():
 
     st.header("Professional Summary")
     st.markdown("""
-    Master in Marketing, CUHK, August 2024 - July 2025* (Expected)
-    Bachelor of Finanance, Lanzhou University, September 2019 - June 2023
+    **Master in Marketing**: Chinese University of Hong Kong, August 2024 - July 2025* (Expected)
+    **Bachelor of Finanance**: Lanzhou University, September 2019 - June 2023
     """)
 
     st.header("Work Experience")

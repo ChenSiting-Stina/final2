@@ -8,14 +8,10 @@ def experience_page():
     ### Data Analyst in Marketing Analysis Dept.
     **Guangzhou Taiqi Food Co., LTD** | *June 2023- April 2024*
     
-    - Spearheaded the collection and management of critical marketing data, ensuring accuracy and integrity in customer, sales, and 
-market trend datasets. 
-    -  Performed in-depth analysis using statistical tools, translating complex data sets into understandable reports, aiding in strategic 
-decision-making processes. 
-    -  Assisted in shaping marketing strategies through data-driven insights, influencing product positioning, pricing, and promotional 
-activities.
-    - Conducted comprehensive market research to identify industry trends and customer preferences, utilizing both qualitative and 
-quantitative methodologies. 
+    - Spearheaded the collection and management of critical marketing data, ensuring accuracy and integrity in customer, sales, and market trend datasets. 
+    -  Performed in-depth analysis using statistical tools, translating complex data sets into understandable reports, aiding in strategic decision-making processes. 
+    -  Assisted in shaping marketing strategies through data-driven insights, influencing product positioning, pricing, and promotional activities.
+    - Conducted comprehensive market research to identify industry trends and customer preferences, utilizing both qualitative and quantitative methodologies. 
     """)
     
     st.markdown("""
